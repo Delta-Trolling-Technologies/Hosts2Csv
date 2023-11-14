@@ -1,6 +1,10 @@
 # Hosts2Csv
 
-## 1. How to use
+## 1. Requirements
+
+Just run `pip install pandas`
+
+## 2. How to use
 
 1. Rename your downloaded or self created hosts file to: `input.txt`
    - And put it into the root directory of the cloned repo
